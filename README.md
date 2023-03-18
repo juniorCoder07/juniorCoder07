@@ -15,6 +15,19 @@
 
 - ⚡ Fun fact **I Want To Be a Billionaire -->**
 
+
+
+
+- 🔭 I’m currently working as Mern Developer
+- 🌱 I’m currently learning Nodejs/Reactjs
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about **react,nextjs,nodejs,graphql,typescript**
+- 📫 How to reach me: Gmail:gurmeetsingh68898@gmail.com
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I Want To Be a Billionaire
+-->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/juniorcoder07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/juniorcoder07/" height="30" width="40" /></a>
