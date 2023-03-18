@@ -7,17 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React/Nodejs**
-
-- 💬 Ask me about **react,nextjs,nodejs,graphql,typescript**
-
-- 📫 How to reach me **juniorCoder07@gmail.com**
-
-- ⚡ Fun fact **I Want To Be a Billionaire -->**
-
-
-
-
 - 🔭 I’m currently working as Mern Developer
 - 🌱 I’m currently learning Nodejs/Reactjs
 - 👯 I’m looking to collaborate on ...
